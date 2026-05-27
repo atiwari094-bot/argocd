@@ -8,7 +8,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/user/myapp.git
+    repoURL: https://github.com/atiwari094-bot/argocd.git
     targetRevision: HEAD
     path: .
 
