@@ -3,11 +3,7 @@ kind: Deployment
 metadata:
   name: nginx-app
 spec:
-<<<<<<< HEAD
-  replicas: 6
-=======
   replicas: 4
->>>>>>> parent of 13d3ed6 (argo4)
   selector:
     matchLabels:
       app: nginx-app
